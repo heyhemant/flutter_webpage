@@ -1,6 +1,6 @@
 # flutter_webpage
 
-A new Flutter project.
+A flutter project that is compatiable with Android,IOS,and also web.
 
 ## Getting Started
 
